@@ -18,7 +18,7 @@ My development experience includes frontend and backend engineering, REST APIs, 
 | Backend | Node.js, Express.js, Python, FastAPI |
 | Databases | MySQL, PostgreSQL, Supabase |
 | Tools & Deployment | Git, GitHub, Vercel, Linux, PM2 |
-| Integrations | REST APIs, Google APIs, AssemblyAI, NLP |
+| Integrations | REST APIs, Google APIs, AssemblyAI |
 
 ---
 
